@@ -1,5 +1,5 @@
 # gym_website_project
-This repo contains a university project which was centered around creating a webapp for a gym.
+This repo contains a university project which was centered around creating a webapp for a personal trainer/gym, using a stack of PHP, jQuery, MySQL, HTML and CSS. 
 
 ## Live website
 The live version of the website is available at jbrown88.lampt.eeecs.qub.ac.uk/gymafi/
