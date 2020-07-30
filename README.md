@@ -4,12 +4,19 @@ This repo contains a university project which was centered around creating a web
 ## Live website
 The live version of the website is available at jbrown88.lampt.eeecs.qub.ac.uk/gymafi/, but some screenshots are below:
 
+Homepage:
 ![Homepage](https://i.imgur.com/N6FhYJc.jpg)
+About page:
 ![About page](https://i.imgur.com/daZvzfL.png)
-![Appointments](https://i.imgur.com/cTF3Qp7.png)
-![Inbox](https://i.imgur.com/IZZAc6W.png)
+User dashboard:
 ![Dashboard](https://i.imgur.com/Qnv6bqq.png)
+Appointment booking page:
+![Appointments](https://i.imgur.com/wZmHFDa.png)
+User inbox:
+![Inbox](https://i.imgur.com/IZZAc6W.png)
+Updating user profile:
 ![Edit Profile](https://i.imgur.com/SolN9OG.png)
+Admin panel:
 ![Admin](https://i.imgur.com/3r4bQz6.png)
 
 
