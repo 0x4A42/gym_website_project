@@ -1,0 +1,598 @@
+#coachProfile {
+  margin-left: 250px;
+  margin-top: 20px;
+}
+
+#inboxHead {
+  color: white;
+}
+.titleHeader {
+  color: white;
+}
+
+.calendarHead {
+  color: white;
+}
+
+#dashButtons {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+#loginRequest {
+  width: 150px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#createGroupButton {
+  margin-top: 20px;
+}
+.loginWarn {
+  margin-left: 200px;
+  margin-bottom: 50px;
+}
+#attachLabel {
+  margin-left: 50px;
+}
+#editContentColumn {
+  margin-left: 200px;
+}
+
+.dashProfileDetails {
+  margin-left: 130px;
+}
+
+.inboxButton {
+  margin-top: 20px;
+}
+.recMsgButtons {
+  margin-top: 10px;
+}
+
+.replyBut {
+  margin-right: 10px;
+}
+.notApproved {
+  margin-left: 400px;
+  margin-top: 20px;
+}
+
+.notApprovedClick {
+  margin-left: 470px;
+  margin-top: 20px;
+  margin-bottom: 65px;
+}
+
+#approvalCont {
+  margin-top: 20px;
+}
+.displayError {
+  font-weight: bold;
+  color: green;
+}
+
+#attemptValidate {
+  margin-top: 30px;
+  margin-left: 275px;
+}
+.displayError {
+  font-weight: bold;
+  color: red;
+}
+
+.displaySucc {
+  font-weight: bold;
+  color: green;
+}
+
+.logButton {
+  margin-top: 20px;
+}
+
+#performanceLogsHead {
+  color: white;
+}
+
+#creationNotPossible {
+  font-style: italic;
+}
+
+.apptButton {
+  margin-top: 20px;
+}
+
+.imageButtons {
+  margin-top: 20px;
+}
+
+#myProfile {
+  margin-top: 50px;
+}
+
+#myDash {
+  margin-top: 20px;
+}
+
+#profilePic {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.sessionTitle {
+  margin-left: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4em;
+  color: black;
+}
+
+#dashColumns {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#rightColumns {
+  margin-left: 150px;
+}
+#photoHead {
+  color: white;
+}
+
+.profileBadges {
+  margin-right: 10px;
+}
+#myFootInbox {
+  margin-top: 189px;
+}
+.profileBadgeText {
+  text-align: center;
+}
+
+.dashTitleText {
+  color: white;
+}
+
+#approvalsFooter {
+  margin-top: 153px;
+}
+
+.dashProfilePic {
+  width: 200px;
+  border-radius: 50%;
+  margin-left: 100px;
+}
+
+#rightDash {
+  margin-bottom: 350px;
+  margin-right: 500px;
+}
+
+#rightCalendar {
+  margin-bottom: 250px;
+  margin-right: 500px;
+}
+
+.leftProfileStuff {
+  margin-left: 15%;
+}
+
+#profileButtons {
+  margin-top: 20px;
+}
+
+#imgHeader {
+  width: 1600px;
+  height: 447px;
+}
+
+.leftProfileHeadStuff {
+  margin-left: 45%;
+}
+
+.RightProfileHeadStuff {
+  margin-right: 40%;
+}
+
+#profileSettings {
+  margin-left: 55px;
+}
+
+#successfulUpdate {
+  color: green;
+  font-weight: bold;
+  margin-left: 400px;
+}
+
+#failedUpdate {
+  color: red;
+  font-weight: bold;
+  margin-left: 300px;
+}
+#indexHeadTitle {
+  padding-left: 70px;
+  padding-top: 30px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+#indexButtonsHold {
+  padding-left: 140px;
+  padding-top: 60px;
+  margin-bottom: 40px;
+}
+
+#mobileSpace {
+  display: none;
+}
+
+#indexHeadContent {
+  padding-left: 70px;
+  padding-top: 30px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+}
+#indexImg {
+  background-image: url(../images/index_header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  overflow: hidden;
+}
+
+#indexInfo {
+  margin-left: 25%;
+}
+#packageInfo {
+  margin-top: 20px;
+}
+
+#myTestimonials {
+  margin-top: 20px;
+}
+
+.formButtonsSignUp {
+  margin-right: 60px;
+}
+
+#formButtonsForgot {
+  margin-left: 280px;
+}
+#signUpTitle {
+  margin: 10px auto 0 auto;
+  text-align: center;
+}
+
+#testimonialSelectButtons {
+  margin-left: 750px;
+  margin-top: 20px;
+}
+.testimonialSelectButton {
+  margin-left: 10px;
+}
+.regError {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+.regSuccess {
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+#resSuc {
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+#conSucc {
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+#conError {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+#clientInfo {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+#contactFoot {
+  margin-top: 155px;
+}
+
+.aboutUsBody {
+  margin-top: 25px;
+}
+
+#aboutFoot {
+  margin-top: 156px;
+}
+
+.myNav {
+  margin-left: 37%;
+}
+
+
+.myNavPublic {
+  margin-left: 40%;
+}
+#manageLog {
+  padding-bottom: 55px;
+}
+.logManage {
+  margin-bottom: 20px;
+}
+.editClientButton {
+  margin-left: 20px;
+}
+.myTitle {
+  text-align: center;
+}
+
+#myForm {
+  margin-top: 40px;
+  padding-top: 5px;
+}
+
+#contactForm {
+  border-radius: 25px;
+  border: 2px solid #363636;
+  padding: 20px;
+}
+
+.myFooter {
+  margin-top: 30px;
+}
+
+#testiFoot {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 1rem;
+}
+
+#testimonialBody {
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+#coachBody {
+  overflow: hidden;
+}
+
+#contactFooter {
+  margin-top: 82px;
+}
+.alsoMyFooter {
+  height: 155px;
+}
+
+#boldFoot {
+  font-weight: bold;
+}
+
+#mySubmit {
+  float: right;
+}
+
+#contactTitle {
+  margin-top: 10px;
+}
+
+#mealPics {
+  margin-top: 10px;
+  margin-right: 40px;
+}
+
+#cont1 {
+  margin-right: 40px;
+}
+
+#progSpan {
+  margin-right: 0;
+}
+
+#loginCol {
+  margin-top: 10px;
+}
+.loginFormPart {
+  width: 50%;
+  margin-left: 200px;
+}
+#progressPics {
+  margin-top: 10px;
+  margin-left: 50px;
+  width: 85%;
+}
+
+.coach {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  position: relative;
+  text-align: center;
+}
+
+.testiBut {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+#myForgot {
+  margin-left: 40px;
+}
+
+#myFooterLog {
+  margin-top: 358px;
+}
+
+#footerApptDenied {
+  margin-top: 71px;
+}
+
+#myFooterForgot {
+  margin-top: 249px;
+}
+
+#loginTitle {
+  margin: 10px auto 0 auto;
+  text-align: center;
+}
+
+#loginBorder {
+  border-radius: 25px;
+  border: 2px solid #363636;
+  padding: 20px;
+  width: 40%;
+  margin: 30px auto 0 auto;
+}
+
+#myFootCoach {
+  margin-top: 88px;
+}
+
+@media only screen and (min-width: 1315px) {
+  #indexImg {
+    width: 100%;
+    background-position: 65%;
+  }
+  
+}
+
+
+@media only screen and (max-width: 1200px) {
+
+  #testimonialSelectButtons {
+    margin-left: 250px;
+
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .formButtonsSignUp {
+    margin-left: 250px;
+  }
+  
+  #outerContain {
+    width: 100%;
+  }
+  #loginBorder {
+    width: 100%;
+  }
+  #innerContain {
+    width: 100%;
+  }
+  .dashProfilePic {
+    margin-left: 10px;
+  }
+  .dashProfileDetails {
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 790px) {
+  
+  #userPic {
+    margin-left:100px;
+  }
+.sessionTitle {
+  margin-left: 175px;
+}
+  #testimonialSelectButtons {
+    margin-left: 40px;
+
+  }
+  #editContentColumn {
+    margin-left: 0px;
+  }
+
+  .dashProfileDetails {
+    margin-left: 35px;
+  }
+
+  .dashProfilePic {
+    margin-left: 35px;
+  }
+
+  #loginCol {
+    width: 100%;
+  }
+  .loginFormPart {
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 0px;
+  }
+  #rightColumns {
+    margin-left: 0px;
+  }
+  .formButtonsLogin {
+    margin-left: 200px;
+  }
+
+  
+  #loginRequest {
+    margin-left: 200px;
+  }
+
+  #dashColumns {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+  }
+
+  #mobileSpace {
+    display: block;
+    margin-top: 10px;
+  }
+
+  #indexInfo {
+    margin: 0 auto 0 auto;
+  }
+  #indexImg {
+    width: 100%;
+    background-position: 65%;
+  }
+  /**
+    * When <790px in width, adds some padding to ensure Submit button is within the border.
+    */
+  #contactForm {
+    padding-bottom: 50px;
+  }
+  /**
+    * When <790px in width, removes any padding/margin to ensure tiles are placed in the middle of screen.
+    */
+
+  #coachOne {
+    margin: 10px auto 0 auto;
+  }
+
+  #coachTwo {
+    margin: 0 auto 0 auto;
+  }
+
+  #coachThree {
+    margin: 0 auto 0 auto;
+  }
+
+  #myLogin {
+    margin-left: 30%;
+  }
+
+  #myForgot {
+    margin-left: 30%;
+  }
+
+  #testiFoot {
+    position: relative;
+  }
+}
