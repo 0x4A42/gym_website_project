@@ -5,6 +5,14 @@ This repo contains a university project which was centered around creating a web
 The live version of the website is available at jbrown88.lampt.eeecs.qub.ac.uk/gymafi/, but some screenshots are below:
 
 ![Homepage](https://i.imgur.com/N6FhYJc.jpg)
+![About page](https://i.imgur.com/daZvzfL.png)
+![Appointments](https://i.imgur.com/cTF3Qp7.png)
+![Inbox](https://i.imgur.com/IZZAc6W.png)
+![Dashboard](https://i.imgur.com/Qnv6bqq.png)
+![Edit Profile](https://i.imgur.com/SolN9OG.png)
+![Admin](https://i.imgur.com/3r4bQz6.png)
+
+
 
 ## Functionality
 - Allows a public user to browse website content which promotes the business, contact the business and sign up.
