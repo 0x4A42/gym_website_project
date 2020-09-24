@@ -8,8 +8,10 @@ Homepage:
 ![Homepage](https://i.imgur.com/N6FhYJc.jpg)
 About page:
 ![About page](https://i.imgur.com/daZvzfL.png)
+Sign Up, including validation:
+![Sign up](https://i.imgur.com/U6DWNo9.png)
 User dashboard:
-![Dashboard](https://i.imgur.com/Qnv6bqq.png)
+![Dashboard](https://i.imgur.com/lJIv4Cs.png)
 Appointment booking page:
 ![Appointments](https://i.imgur.com/wZmHFDa.png)
 User inbox:
@@ -17,7 +19,7 @@ User inbox:
 Updating user profile:
 ![Edit Profile](https://i.imgur.com/SolN9OG.png)
 Admin panel:
-![Admin](https://i.imgur.com/3r4bQz6.png)
+![Admin](https://i.imgur.com/uKJGvMe.png)
 
 
 
