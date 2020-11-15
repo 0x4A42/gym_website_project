@@ -2,7 +2,7 @@
 This repo contains a university project which was centered around creating a webapp for a personal trainer/gym, using a stack of PHP, jQuery, MySQL, HTML and CSS. 
 
 ## Live website
-The live version of the website is available at jbrown88.lampt.eeecs.qub.ac.uk/gymafi/, but some screenshots are below:
+The live version of the website is available [here](jbrown88.lampt.eeecs.qub.ac.uk/gymafi/), but some screenshots are below:
 
 Homepage:
 ![Homepage](https://i.imgur.com/N6FhYJc.jpg)
@@ -34,6 +34,3 @@ Admin panel:
 - Allows the user to upload images to a gallery, which then can be used for profile pictures.
 - Allows the coach to manage website content and edit select user details (username, email address), as well as reset their password (randomly generated) or delete their account. The superadmin can edit the coach/admin account details in the same way as a coach can edit a client; with the added functionality of creating additional coaches.
 
-## Contributing
-
-Not needed as this is a finished university project.
